@@ -34,19 +34,6 @@ The dashboard provides interactive insights into growth trends, yearly compariso
 * Data Modeling
 * Data Visualization
 
----
-
-## 📂 Dataset
-
-Dataset includes historical market capitalization data of major tech companies.
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard](screenshots/dashboard.png)
-
----
 
 ## 💡 Learnings
 
