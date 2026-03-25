@@ -1,1 +1,1 @@
-# Magnificent-7-PowerBI
+# Magnificent-7-PowerBI-Dashboard
